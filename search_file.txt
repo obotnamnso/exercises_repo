@@ -5,3 +5,8 @@ Random walk is a main characteristic of modern search algorithms.
 Swarm intelligence and corresponding to particle swarm optimization.
 Genetic algorithms or evolutionary algorithms where the search agents are improving. 
 They try to use the best solutions or agents, and randomise or replace the not-so-good ones, while evaluating each individual’s competence (fitness) in combination with the system history (use of memory).  With such a balance, we intend to design better and efficient optimization algorithms.
+
+Classification of optimization algorithm can be carried out in many ways. A simple way is to look at the nature of the algorithm, and this divides the algorithms into two categories: 
+1.	Deterministic algorithms: follows a rigorous procedure, and its path and values of both design variables and the functions are repeatable. Example: hill-climbing.
+2.	Stochastic algorithms: always have some randomness. Example: genetic algorithm. 
+3.	The third type of algorithm which is a mixture, or a hybrid, of deterministic and stochastic algorithms, example: hill-climbing with a random restart. The basic idea is to use the deterministic algorithm, but start with different initial points. 
