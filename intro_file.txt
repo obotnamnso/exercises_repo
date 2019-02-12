@@ -1,0 +1,3 @@
+The objectives of optimization is to increase profit, quality and improve time. As resources, time and money are always limited in real-world applications. 
+Mathematical optimization or programming is the study of such planning and design problems using mathematical tools. 
+Computer simulations have become an indispensable tool for solving such optimization problems [with various efficient search algorithms.
