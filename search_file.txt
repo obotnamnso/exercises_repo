@@ -1,0 +1,7 @@
+SEARCH FOR OPTIMALITY 
+After an optimization problem is formulated correctly.
+The main task is to find the optimal solutions by solution procedure using the right mathematical techniques.
+Random walk is a main characteristic of modern search algorithms. 
+Swarm intelligence and corresponding to particle swarm optimization.
+Genetic algorithms or evolutionary algorithms where the search agents are improving. 
+They try to use the best solutions or agents, and randomise or replace the not-so-good ones, while evaluating each individual’s competence (fitness) in combination with the system history (use of memory).  With such a balance, we intend to design better and efficient optimization algorithms.
